@@ -1,4 +1,4 @@
-# Preschool_Memory_Study
+# Associative memory persistence in three- to five-year-olds
 Analysis and task code for Saragosa-Harris+, Cohen+, Shen, Sardar, Alberini, & Hartley (2021). 
 
 Citation for use of any code, data, or task: Saragosa-Harris, N.M.+, Cohen, A. O.+, Shen, X., Sardar, H., Alberini, C.M., & Hartley, C.A. (2021). Associative memory persistence in three- to five-year-olds. *Developmental Science*. doi.org/10.1111/desc.13105. (+) Equal author contribution.
